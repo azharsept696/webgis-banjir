@@ -1,0 +1,312 @@
+{
+  "type": "FeatureCollection",
+  "name": "Zona Risiko Banjir Kota Semarang",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "kecamatan": "Semarang Utara",
+        "kelurahan": "Bandarharjo",
+        "risk_level": "tinggi",
+        "curah_hujan": 285,
+        "elevasi": 1.2,
+        "luas_ha": 342.5,
+        "keterangan": "Wilayah pesisir dengan elevasi sangat rendah, rawan banjir rob dan hujan lebat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.395, -6.963],
+          [110.425, -6.963],
+          [110.435, -6.975],
+          [110.430, -6.990],
+          [110.410, -6.995],
+          [110.390, -6.985],
+          [110.385, -6.970],
+          [110.395, -6.963]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "kecamatan": "Genuk",
+        "kelurahan": "Terboyo Wetan",
+        "risk_level": "tinggi",
+        "curah_hujan": 312,
+        "elevasi": 0.8,
+        "luas_ha": 415.2,
+        "keterangan": "Daerah dataran rendah industri dengan drainase yang buruk dan sering tergenang"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.440, -6.960],
+          [110.470, -6.960],
+          [110.480, -6.975],
+          [110.475, -6.995],
+          [110.455, -7.000],
+          [110.435, -6.990],
+          [110.430, -6.975],
+          [110.440, -6.960]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "kecamatan": "Semarang Tengah",
+        "kelurahan": "Miroto",
+        "risk_level": "tinggi",
+        "curah_hujan": 265,
+        "elevasi": 3.5,
+        "luas_ha": 198.7,
+        "keterangan": "Pusat kota dengan sistem drainase terbatas, sering terjadi banjir kiriman dari selatan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.400, -6.990],
+          [110.420, -6.990],
+          [110.428, -7.003],
+          [110.420, -7.012],
+          [110.405, -7.012],
+          [110.398, -7.003],
+          [110.400, -6.990]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "kecamatan": "Pedurungan",
+        "kelurahan": "Penggaron Kidul",
+        "risk_level": "sedang",
+        "curah_hujan": 198,
+        "elevasi": 12.4,
+        "luas_ha": 521.8,
+        "keterangan": "Kawasan pemukiman padat dengan kapasitas resapan air yang mulai berkurang"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.455, -7.000],
+          [110.485, -7.000],
+          [110.492, -7.018],
+          [110.485, -7.032],
+          [110.462, -7.035],
+          [110.450, -7.022],
+          [110.455, -7.000]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "kecamatan": "Banyumanik",
+        "kelurahan": "Ngesrep",
+        "risk_level": "sedang",
+        "curah_hujan": 220,
+        "elevasi": 28.6,
+        "luas_ha": 389.4,
+        "keterangan": "Perbukitan dengan lereng sedang, perlu waspadai longsor dan aliran permukaan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.405, -7.025],
+          [110.428, -7.022],
+          [110.438, -7.038],
+          [110.432, -7.052],
+          [110.415, -7.058],
+          [110.402, -7.045],
+          [110.405, -7.025]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "kecamatan": "Tembalang",
+        "kelurahan": "Bulusan",
+        "risk_level": "sedang",
+        "curah_hujan": 205,
+        "elevasi": 22.1,
+        "luas_ha": 445.3,
+        "keterangan": "Kawasan kampus dengan tata guna lahan campuran, drainase perlu perhatian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.430, -7.022],
+          [110.458, -7.018],
+          [110.465, -7.035],
+          [110.458, -7.048],
+          [110.438, -7.052],
+          [110.428, -7.038],
+          [110.430, -7.022]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "kecamatan": "Ngaliyan",
+        "kelurahan": "Kalipancur",
+        "risk_level": "sedang",
+        "curah_hujan": 215,
+        "elevasi": 18.3,
+        "luas_ha": 362.1,
+        "keterangan": "Perkembangan kawasan baru dengan perubahan lahan yang cukup signifikan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.350, -7.005],
+          [110.378, -7.002],
+          [110.385, -7.018],
+          [110.378, -7.032],
+          [110.358, -7.035],
+          [110.345, -7.022],
+          [110.350, -7.005]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "kecamatan": "Gunungpati",
+        "kelurahan": "Sumurrejo",
+        "risk_level": "rendah",
+        "curah_hujan": 145,
+        "elevasi": 65.8,
+        "luas_ha": 712.6,
+        "keterangan": "Dataran tinggi dengan tutupan vegetasi yang masih baik dan drainase alami memadai"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.358, -7.040],
+          [110.388, -7.038],
+          [110.398, -7.058],
+          [110.390, -7.075],
+          [110.368, -7.078],
+          [110.352, -7.062],
+          [110.358, -7.040]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "kecamatan": "Mijen",
+        "kelurahan": "Kedungpane",
+        "risk_level": "rendah",
+        "curah_hujan": 132,
+        "elevasi": 78.2,
+        "luas_ha": 895.4,
+        "keterangan": "Kawasan perbukitan yang masih didominasi lahan pertanian dan hutan kota"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.310, -7.025],
+          [110.348, -7.022],
+          [110.355, -7.042],
+          [110.345, -7.060],
+          [110.320, -7.062],
+          [110.305, -7.045],
+          [110.310, -7.025]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "kecamatan": "Candisari",
+        "kelurahan": "Jatingaleh",
+        "risk_level": "rendah",
+        "curah_hujan": 158,
+        "elevasi": 45.3,
+        "luas_ha": 278.9,
+        "keterangan": "Wilayah perbukitan dengan vegetasi cukup lebat dan topografi yang menunjang drainase"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.380, -7.040],
+          [110.405, -7.038],
+          [110.412, -7.055],
+          [110.405, -7.068],
+          [110.385, -7.070],
+          [110.375, -7.058],
+          [110.380, -7.040]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "kecamatan": "Gayamsari",
+        "kelurahan": "Siwalan",
+        "risk_level": "tinggi",
+        "curah_hujan": 278,
+        "elevasi": 2.1,
+        "luas_ha": 156.4,
+        "keterangan": "Dataran rendah antara sungai Banjir Kanal Timur, sangat rentan terhadap limpasan air"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.428, -7.005],
+          [110.452, -7.002],
+          [110.458, -7.018],
+          [110.450, -7.028],
+          [110.432, -7.030],
+          [110.423, -7.018],
+          [110.428, -7.005]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "kecamatan": "Semarang Barat",
+        "kelurahan": "Krobokan",
+        "risk_level": "sedang",
+        "curah_hujan": 188,
+        "elevasi": 8.7,
+        "luas_ha": 298.3,
+        "keterangan": "Kawasan perdagangan dan pemukiman dengan kepadatan tinggi di wilayah barat kota"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [110.370, -6.985],
+          [110.395, -6.983],
+          [110.400, -6.998],
+          [110.393, -7.010],
+          [110.373, -7.012],
+          [110.363, -7.000],
+          [110.370, -6.985]
+        ]]
+      }
+    }
+  ]
+}
