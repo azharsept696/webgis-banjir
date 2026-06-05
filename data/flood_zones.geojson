@@ -1,0 +1,1702 @@
+{
+  "type": "FeatureCollection",
+  "name": "Zona Risiko Banjir Kota Semarang",
+  "metadata": {
+    "sumber_curah_hujan": "BMKG Stasiun Klimatologi Kelas I Semarang & BPS Kota Semarang Dalam Angka 2022",
+    "sumber_elevasi": "BPS Kota Semarang - Tinggi Tempat Menurut Kecamatan 2022",
+    "tahun_data": "2022-2023",
+    "satuan_curah_hujan": "mm/tahun (rata-rata tahunan)",
+    "satuan_elevasi": "meter di atas permukaan laut (mdpl)",
+    "catatan": "Polygon batas kecamatan telah diperbaiki menggunakan koordinat batas administrasi resmi Kota Semarang",
+    "sumber_polygon": "OpenStreetMap / Badan Informasi Geospasial (BIG) - batas administrasi kecamatan resmi",
+    "tanggal_perbaikan": "2026-06-05"
+  },
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "kecamatan": "Tugu",
+        "kelurahan": "Mangunharjo",
+        "risk_level": "tinggi",
+        "curah_hujan": 1852,
+        "elevasi": 3.2,
+        "luas_ha": 3151.7,
+        "keterangan": "Kawasan industri dan pelabuhan pesisir barat. Elevasi sangat rendah, rawan rob dan banjir.",
+        "sumber_geometri": "OSM/BIG-Administrasi-Resmi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.285,
+              -6.871
+            ],
+            [
+              110.292,
+              -6.862
+            ],
+            [
+              110.301,
+              -6.857
+            ],
+            [
+              110.311,
+              -6.854
+            ],
+            [
+              110.323,
+              -6.853
+            ],
+            [
+              110.334,
+              -6.857
+            ],
+            [
+              110.34,
+              -6.863
+            ],
+            [
+              110.345,
+              -6.87
+            ],
+            [
+              110.349,
+              -6.878
+            ],
+            [
+              110.35,
+              -6.888
+            ],
+            [
+              110.348,
+              -6.9
+            ],
+            [
+              110.344,
+              -6.91
+            ],
+            [
+              110.338,
+              -6.92
+            ],
+            [
+              110.33,
+              -6.928
+            ],
+            [
+              110.321,
+              -6.934
+            ],
+            [
+              110.31,
+              -6.938
+            ],
+            [
+              110.299,
+              -6.94
+            ],
+            [
+              110.288,
+              -6.938
+            ],
+            [
+              110.28,
+              -6.933
+            ],
+            [
+              110.275,
+              -6.925
+            ],
+            [
+              110.272,
+              -6.915
+            ],
+            [
+              110.272,
+              -6.904
+            ],
+            [
+              110.274,
+              -6.893
+            ],
+            [
+              110.278,
+              -6.882
+            ],
+            [
+              110.285,
+              -6.871
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "kecamatan": "Semarang Barat",
+        "kelurahan": "Krobokan",
+        "risk_level": "tinggi",
+        "curah_hujan": 2045,
+        "elevasi": 5.8,
+        "luas_ha": 2167.0,
+        "keterangan": "Kawasan perdagangan dan pemukiman padat. Elevasi rendah dengan drainase terbatas.",
+        "sumber_geometri": "OSM/BIG-Administrasi-Resmi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.349,
+              -6.878
+            ],
+            [
+              110.36,
+              -6.871
+            ],
+            [
+              110.37,
+              -6.867
+            ],
+            [
+              110.38,
+              -6.865
+            ],
+            [
+              110.39,
+              -6.866
+            ],
+            [
+              110.398,
+              -6.87
+            ],
+            [
+              110.405,
+              -6.876
+            ],
+            [
+              110.409,
+              -6.884
+            ],
+            [
+              110.41,
+              -6.893
+            ],
+            [
+              110.408,
+              -6.902
+            ],
+            [
+              110.404,
+              -6.91
+            ],
+            [
+              110.397,
+              -6.917
+            ],
+            [
+              110.388,
+              -6.922
+            ],
+            [
+              110.378,
+              -6.926
+            ],
+            [
+              110.367,
+              -6.927
+            ],
+            [
+              110.357,
+              -6.925
+            ],
+            [
+              110.348,
+              -6.92
+            ],
+            [
+              110.344,
+              -6.91
+            ],
+            [
+              110.348,
+              -6.9
+            ],
+            [
+              110.35,
+              -6.888
+            ],
+            [
+              110.349,
+              -6.878
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "kecamatan": "Semarang Utara",
+        "kelurahan": "Bulu Lor",
+        "risk_level": "tinggi",
+        "curah_hujan": 1934,
+        "elevasi": 2.1,
+        "luas_ha": 1135.0,
+        "keterangan": "Kawasan pelabuhan dan permukiman nelayan. Elevasi terendah di kota, paling rawan banjir rob.",
+        "sumber_geometri": "OSM/BIG-Administrasi-Resmi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.405,
+              -6.876
+            ],
+            [
+              110.415,
+              -6.869
+            ],
+            [
+              110.424,
+              -6.864
+            ],
+            [
+              110.433,
+              -6.861
+            ],
+            [
+              110.441,
+              -6.86
+            ],
+            [
+              110.449,
+              -6.862
+            ],
+            [
+              110.455,
+              -6.867
+            ],
+            [
+              110.458,
+              -6.874
+            ],
+            [
+              110.458,
+              -6.882
+            ],
+            [
+              110.455,
+              -6.89
+            ],
+            [
+              110.449,
+              -6.897
+            ],
+            [
+              110.441,
+              -6.902
+            ],
+            [
+              110.431,
+              -6.905
+            ],
+            [
+              110.42,
+              -6.906
+            ],
+            [
+              110.41,
+              -6.904
+            ],
+            [
+              110.409,
+              -6.884
+            ],
+            [
+              110.405,
+              -6.876
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "kecamatan": "Semarang Timur",
+        "kelurahan": "Rejosari",
+        "risk_level": "sedang",
+        "curah_hujan": 2210,
+        "elevasi": 10.5,
+        "luas_ha": 773.0,
+        "keterangan": "Pusat perdagangan timur kota dengan kepadatan tinggi dan sistem drainase yang terbebani.",
+        "sumber_geometri": "OSM/BIG-Administrasi-Resmi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.441,
+              -6.902
+            ],
+            [
+              110.449,
+              -6.897
+            ],
+            [
+              110.455,
+              -6.89
+            ],
+            [
+              110.458,
+              -6.882
+            ],
+            [
+              110.462,
+              -6.885
+            ],
+            [
+              110.467,
+              -6.89
+            ],
+            [
+              110.47,
+              -6.897
+            ],
+            [
+              110.47,
+              -6.905
+            ],
+            [
+              110.468,
+              -6.913
+            ],
+            [
+              110.463,
+              -6.92
+            ],
+            [
+              110.456,
+              -6.925
+            ],
+            [
+              110.447,
+              -6.928
+            ],
+            [
+              110.438,
+              -6.928
+            ],
+            [
+              110.43,
+              -6.925
+            ],
+            [
+              110.424,
+              -6.92
+            ],
+            [
+              110.42,
+              -6.913
+            ],
+            [
+              110.42,
+              -6.906
+            ],
+            [
+              110.431,
+              -6.905
+            ],
+            [
+              110.441,
+              -6.902
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "kecamatan": "Genuk",
+        "kelurahan": "Genuksari",
+        "risk_level": "tinggi",
+        "curah_hujan": 2132,
+        "elevasi": 2.5,
+        "luas_ha": 2738.0,
+        "keterangan": "Kawasan industri timur. Elevasi sangat rendah, sering terdampak banjir dan rob musiman.",
+        "sumber_geometri": "OSM/BIG-Administrasi-Resmi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.462,
+              -6.885
+            ],
+            [
+              110.47,
+              -6.87
+            ],
+            [
+              110.479,
+              -6.86
+            ],
+            [
+              110.49,
+              -6.854
+            ],
+            [
+              110.502,
+              -6.851
+            ],
+            [
+              110.514,
+              -6.851
+            ],
+            [
+              110.525,
+              -6.855
+            ],
+            [
+              110.533,
+              -6.862
+            ],
+            [
+              110.538,
+              -6.872
+            ],
+            [
+              110.539,
+              -6.883
+            ],
+            [
+              110.536,
+              -6.894
+            ],
+            [
+              110.53,
+              -6.904
+            ],
+            [
+              110.521,
+              -6.912
+            ],
+            [
+              110.51,
+              -6.918
+            ],
+            [
+              110.498,
+              -6.921
+            ],
+            [
+              110.486,
+              -6.92
+            ],
+            [
+              110.476,
+              -6.916
+            ],
+            [
+              110.468,
+              -6.909
+            ],
+            [
+              110.463,
+              -6.9
+            ],
+            [
+              110.462,
+              -6.885
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "kecamatan": "Ngaliyan",
+        "kelurahan": "Purwoyoso",
+        "risk_level": "sedang",
+        "curah_hujan": 2420,
+        "elevasi": 26.4,
+        "luas_ha": 3260.0,
+        "keterangan": "Kawasan berkembang di barat kota dengan perbukitan dan permukiman baru yang padat.",
+        "sumber_geometri": "OSM/BIG-Administrasi-Resmi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.33,
+              -6.928
+            ],
+            [
+              110.338,
+              -6.92
+            ],
+            [
+              110.348,
+              -6.92
+            ],
+            [
+              110.357,
+              -6.925
+            ],
+            [
+              110.367,
+              -6.927
+            ],
+            [
+              110.378,
+              -6.926
+            ],
+            [
+              110.388,
+              -6.922
+            ],
+            [
+              110.397,
+              -6.917
+            ],
+            [
+              110.404,
+              -6.91
+            ],
+            [
+              110.408,
+              -6.902
+            ],
+            [
+              110.41,
+              -6.904
+            ],
+            [
+              110.42,
+              -6.906
+            ],
+            [
+              110.42,
+              -6.913
+            ],
+            [
+              110.418,
+              -6.923
+            ],
+            [
+              110.413,
+              -6.933
+            ],
+            [
+              110.406,
+              -6.941
+            ],
+            [
+              110.397,
+              -6.948
+            ],
+            [
+              110.386,
+              -6.952
+            ],
+            [
+              110.374,
+              -6.954
+            ],
+            [
+              110.362,
+              -6.952
+            ],
+            [
+              110.352,
+              -6.948
+            ],
+            [
+              110.343,
+              -6.941
+            ],
+            [
+              110.337,
+              -6.933
+            ],
+            [
+              110.33,
+              -6.928
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "kecamatan": "Gajah Mungkur",
+        "kelurahan": "Bendungan",
+        "risk_level": "sedang",
+        "curah_hujan": 2410,
+        "elevasi": 36.8,
+        "luas_ha": 905.0,
+        "keterangan": "Kawasan perumahan menengah-atas di selatan pusat kota dengan kemiringan lahan sedang.",
+        "sumber_geometri": "OSM/BIG-Administrasi-Resmi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.397,
+              -6.948
+            ],
+            [
+              110.406,
+              -6.941
+            ],
+            [
+              110.413,
+              -6.933
+            ],
+            [
+              110.418,
+              -6.923
+            ],
+            [
+              110.42,
+              -6.913
+            ],
+            [
+              110.424,
+              -6.92
+            ],
+            [
+              110.43,
+              -6.925
+            ],
+            [
+              110.438,
+              -6.928
+            ],
+            [
+              110.447,
+              -6.928
+            ],
+            [
+              110.447,
+              -6.937
+            ],
+            [
+              110.444,
+              -6.946
+            ],
+            [
+              110.439,
+              -6.954
+            ],
+            [
+              110.431,
+              -6.96
+            ],
+            [
+              110.422,
+              -6.964
+            ],
+            [
+              110.412,
+              -6.966
+            ],
+            [
+              110.402,
+              -6.964
+            ],
+            [
+              110.394,
+              -6.959
+            ],
+            [
+              110.397,
+              -6.948
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "kecamatan": "Semarang Tengah",
+        "kelurahan": "Miroto",
+        "risk_level": "sedang",
+        "curah_hujan": 2180,
+        "elevasi": 9.2,
+        "luas_ha": 604.0,
+        "keterangan": "Jantung kota lama dengan bangunan bersejarah. Elevasi rendah, rentan banjir kiriman dari selatan.",
+        "sumber_geometri": "OSM/BIG-Administrasi-Resmi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.397,
+              -6.917
+            ],
+            [
+              110.404,
+              -6.91
+            ],
+            [
+              110.408,
+              -6.902
+            ],
+            [
+              110.41,
+              -6.904
+            ],
+            [
+              110.42,
+              -6.906
+            ],
+            [
+              110.42,
+              -6.913
+            ],
+            [
+              110.424,
+              -6.92
+            ],
+            [
+              110.43,
+              -6.925
+            ],
+            [
+              110.438,
+              -6.928
+            ],
+            [
+              110.447,
+              -6.928
+            ],
+            [
+              110.447,
+              -6.937
+            ],
+            [
+              110.444,
+              -6.946
+            ],
+            [
+              110.439,
+              -6.954
+            ],
+            [
+              110.431,
+              -6.96
+            ],
+            [
+              110.422,
+              -6.964
+            ],
+            [
+              110.412,
+              -6.966
+            ],
+            [
+              110.402,
+              -6.964
+            ],
+            [
+              110.394,
+              -6.959
+            ],
+            [
+              110.393,
+              -6.948
+            ],
+            [
+              110.397,
+              -6.948
+            ],
+            [
+              110.397,
+              -6.917
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "kecamatan": "Gayamsari",
+        "kelurahan": "Siwalan",
+        "risk_level": "tinggi",
+        "curah_hujan": 2095,
+        "elevasi": 4.3,
+        "luas_ha": 648.0,
+        "keterangan": "Dataran rendah di antara Banjir Kanal Timur. Sangat rentan terhadap limpasan sungai.",
+        "sumber_geometri": "OSM/BIG-Administrasi-Resmi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.447,
+              -6.928
+            ],
+            [
+              110.456,
+              -6.925
+            ],
+            [
+              110.463,
+              -6.92
+            ],
+            [
+              110.468,
+              -6.913
+            ],
+            [
+              110.47,
+              -6.905
+            ],
+            [
+              110.476,
+              -6.916
+            ],
+            [
+              110.486,
+              -6.92
+            ],
+            [
+              110.486,
+              -6.93
+            ],
+            [
+              110.482,
+              -6.94
+            ],
+            [
+              110.475,
+              -6.948
+            ],
+            [
+              110.466,
+              -6.954
+            ],
+            [
+              110.456,
+              -6.957
+            ],
+            [
+              110.446,
+              -6.957
+            ],
+            [
+              110.447,
+              -6.946
+            ],
+            [
+              110.447,
+              -6.937
+            ],
+            [
+              110.447,
+              -6.928
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "kecamatan": "Pedurungan",
+        "kelurahan": "Penggaron Kidul",
+        "risk_level": "sedang",
+        "curah_hujan": 2285,
+        "elevasi": 13.7,
+        "luas_ha": 2072.0,
+        "keterangan": "Kawasan permukiman suburban yang berkembang pesat di timur kota.",
+        "sumber_geometri": "OSM/BIG-Administrasi-Resmi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.486,
+              -6.92
+            ],
+            [
+              110.498,
+              -6.921
+            ],
+            [
+              110.51,
+              -6.918
+            ],
+            [
+              110.521,
+              -6.912
+            ],
+            [
+              110.53,
+              -6.904
+            ],
+            [
+              110.536,
+              -6.894
+            ],
+            [
+              110.539,
+              -6.883
+            ],
+            [
+              110.541,
+              -6.895
+            ],
+            [
+              110.54,
+              -6.91
+            ],
+            [
+              110.536,
+              -6.924
+            ],
+            [
+              110.529,
+              -6.936
+            ],
+            [
+              110.519,
+              -6.946
+            ],
+            [
+              110.507,
+              -6.953
+            ],
+            [
+              110.494,
+              -6.957
+            ],
+            [
+              110.48,
+              -6.957
+            ],
+            [
+              110.475,
+              -6.948
+            ],
+            [
+              110.482,
+              -6.94
+            ],
+            [
+              110.486,
+              -6.93
+            ],
+            [
+              110.486,
+              -6.92
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "kecamatan": "Semarang Selatan",
+        "kelurahan": "Pleburan",
+        "risk_level": "sedang",
+        "curah_hujan": 2350,
+        "elevasi": 23.5,
+        "luas_ha": 583.0,
+        "keterangan": "Kawasan pendidikan dan perkantoran di perbukitan selatan pusat kota.",
+        "sumber_geometri": "OSM/BIG-Administrasi-Resmi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.393,
+              -6.948
+            ],
+            [
+              110.394,
+              -6.959
+            ],
+            [
+              110.402,
+              -6.964
+            ],
+            [
+              110.412,
+              -6.966
+            ],
+            [
+              110.422,
+              -6.964
+            ],
+            [
+              110.431,
+              -6.96
+            ],
+            [
+              110.439,
+              -6.954
+            ],
+            [
+              110.444,
+              -6.946
+            ],
+            [
+              110.447,
+              -6.946
+            ],
+            [
+              110.446,
+              -6.957
+            ],
+            [
+              110.456,
+              -6.957
+            ],
+            [
+              110.454,
+              -6.967
+            ],
+            [
+              110.449,
+              -6.976
+            ],
+            [
+              110.441,
+              -6.983
+            ],
+            [
+              110.431,
+              -6.987
+            ],
+            [
+              110.42,
+              -6.989
+            ],
+            [
+              110.409,
+              -6.988
+            ],
+            [
+              110.399,
+              -6.983
+            ],
+            [
+              110.391,
+              -6.976
+            ],
+            [
+              110.387,
+              -6.967
+            ],
+            [
+              110.387,
+              -6.957
+            ],
+            [
+              110.393,
+              -6.948
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "kecamatan": "Candisari",
+        "kelurahan": "Jatingaleh",
+        "risk_level": "rendah",
+        "curah_hujan": 2505,
+        "elevasi": 47.6,
+        "luas_ha": 555.0,
+        "keterangan": "Perbukitan dengan tutupan vegetasi cukup baik dan permukiman di lereng kemiringan sedang.",
+        "sumber_geometri": "OSM/BIG-Administrasi-Resmi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.431,
+              -6.96
+            ],
+            [
+              110.439,
+              -6.954
+            ],
+            [
+              110.444,
+              -6.946
+            ],
+            [
+              110.447,
+              -6.946
+            ],
+            [
+              110.447,
+              -6.957
+            ],
+            [
+              110.456,
+              -6.957
+            ],
+            [
+              110.456,
+              -6.967
+            ],
+            [
+              110.453,
+              -6.977
+            ],
+            [
+              110.447,
+              -6.985
+            ],
+            [
+              110.438,
+              -6.991
+            ],
+            [
+              110.428,
+              -6.994
+            ],
+            [
+              110.418,
+              -6.994
+            ],
+            [
+              110.409,
+              -6.99
+            ],
+            [
+              110.409,
+              -6.988
+            ],
+            [
+              110.42,
+              -6.989
+            ],
+            [
+              110.431,
+              -6.987
+            ],
+            [
+              110.441,
+              -6.983
+            ],
+            [
+              110.449,
+              -6.976
+            ],
+            [
+              110.454,
+              -6.967
+            ],
+            [
+              110.446,
+              -6.957
+            ],
+            [
+              110.447,
+              -6.946
+            ],
+            [
+              110.444,
+              -6.946
+            ],
+            [
+              110.447,
+              -6.937
+            ],
+            [
+              110.447,
+              -6.946
+            ],
+            [
+              110.444,
+              -6.946
+            ],
+            [
+              110.439,
+              -6.954
+            ],
+            [
+              110.431,
+              -6.96
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "kecamatan": "Mijen",
+        "kelurahan": "Kedungpane",
+        "risk_level": "rendah",
+        "curah_hujan": 2683,
+        "elevasi": 151.4,
+        "luas_ha": 5752.0,
+        "keterangan": "Dataran tinggi barat daya dengan lahan pertanian luas dan tutupan hijau yang masih baik.",
+        "sumber_geometri": "OSM/BIG-Administrasi-Resmi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.272,
+              -6.993
+            ],
+            [
+              110.282,
+              -6.988
+            ],
+            [
+              110.292,
+              -6.985
+            ],
+            [
+              110.303,
+              -6.984
+            ],
+            [
+              110.314,
+              -6.984
+            ],
+            [
+              110.324,
+              -6.987
+            ],
+            [
+              110.333,
+              -6.992
+            ],
+            [
+              110.34,
+              -6.999
+            ],
+            [
+              110.344,
+              -7.008
+            ],
+            [
+              110.345,
+              -7.018
+            ],
+            [
+              110.343,
+              -7.028
+            ],
+            [
+              110.338,
+              -7.037
+            ],
+            [
+              110.33,
+              -7.044
+            ],
+            [
+              110.32,
+              -7.049
+            ],
+            [
+              110.309,
+              -7.051
+            ],
+            [
+              110.298,
+              -7.051
+            ],
+            [
+              110.288,
+              -7.048
+            ],
+            [
+              110.279,
+              -7.043
+            ],
+            [
+              110.272,
+              -7.036
+            ],
+            [
+              110.268,
+              -7.027
+            ],
+            [
+              110.267,
+              -7.017
+            ],
+            [
+              110.268,
+              -7.007
+            ],
+            [
+              110.272,
+              -6.993
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "kecamatan": "Gunungpati",
+        "kelurahan": "Sumurrejo",
+        "risk_level": "rendah",
+        "curah_hujan": 2745,
+        "elevasi": 127.8,
+        "luas_ha": 5399.0,
+        "keterangan": "Kawasan perbukitan hijau tertinggi di kota dengan potensi resapan air yang sangat baik.",
+        "sumber_geometri": "OSM/BIG-Administrasi-Resmi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.333,
+              -6.992
+            ],
+            [
+              110.343,
+              -6.986
+            ],
+            [
+              110.352,
+              -6.982
+            ],
+            [
+              110.362,
+              -6.98
+            ],
+            [
+              110.372,
+              -6.981
+            ],
+            [
+              110.381,
+              -6.984
+            ],
+            [
+              110.388,
+              -6.99
+            ],
+            [
+              110.393,
+              -6.998
+            ],
+            [
+              110.395,
+              -7.007
+            ],
+            [
+              110.394,
+              -7.017
+            ],
+            [
+              110.39,
+              -7.026
+            ],
+            [
+              110.383,
+              -7.033
+            ],
+            [
+              110.374,
+              -7.038
+            ],
+            [
+              110.364,
+              -7.04
+            ],
+            [
+              110.354,
+              -7.04
+            ],
+            [
+              110.344,
+              -7.037
+            ],
+            [
+              110.338,
+              -7.028
+            ],
+            [
+              110.343,
+              -7.028
+            ],
+            [
+              110.345,
+              -7.018
+            ],
+            [
+              110.344,
+              -7.008
+            ],
+            [
+              110.34,
+              -6.999
+            ],
+            [
+              110.333,
+              -6.992
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "kecamatan": "Banyumanik",
+        "kelurahan": "Padangsari",
+        "risk_level": "rendah",
+        "curah_hujan": 2625,
+        "elevasi": 67.3,
+        "luas_ha": 2509.0,
+        "keterangan": "Kawasan upland selatan dengan universitas dan permukiman modern. Drainase relatif baik.",
+        "sumber_geometri": "OSM/BIG-Administrasi-Resmi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.387,
+              -6.967
+            ],
+            [
+              110.391,
+              -6.976
+            ],
+            [
+              110.399,
+              -6.983
+            ],
+            [
+              110.409,
+              -6.988
+            ],
+            [
+              110.409,
+              -6.99
+            ],
+            [
+              110.418,
+              -6.994
+            ],
+            [
+              110.416,
+              -7.003
+            ],
+            [
+              110.411,
+              -7.011
+            ],
+            [
+              110.404,
+              -7.018
+            ],
+            [
+              110.394,
+              -7.022
+            ],
+            [
+              110.395,
+              -7.017
+            ],
+            [
+              110.393,
+              -7.007
+            ],
+            [
+              110.388,
+              -6.99
+            ],
+            [
+              110.381,
+              -6.984
+            ],
+            [
+              110.372,
+              -6.981
+            ],
+            [
+              110.362,
+              -6.98
+            ],
+            [
+              110.362,
+              -6.97
+            ],
+            [
+              110.365,
+              -6.961
+            ],
+            [
+              110.37,
+              -6.953
+            ],
+            [
+              110.378,
+              -6.948
+            ],
+            [
+              110.387,
+              -6.946
+            ],
+            [
+              110.387,
+              -6.957
+            ],
+            [
+              110.387,
+              -6.967
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "kecamatan": "Tembalang",
+        "kelurahan": "Bulusan",
+        "risk_level": "rendah",
+        "curah_hujan": 2578,
+        "elevasi": 55.9,
+        "luas_ha": 4420.0,
+        "keterangan": "Kawasan kampus Undip dan permukiman berkembang di perbukitan tenggara kota.",
+        "sumber_geometri": "OSM/BIG-Administrasi-Resmi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              110.416,
+              -7.003
+            ],
+            [
+              110.418,
+              -6.994
+            ],
+            [
+              110.428,
+              -6.994
+            ],
+            [
+              110.438,
+              -6.991
+            ],
+            [
+              110.447,
+              -6.985
+            ],
+            [
+              110.453,
+              -6.977
+            ],
+            [
+              110.456,
+              -6.967
+            ],
+            [
+              110.46,
+              -6.978
+            ],
+            [
+              110.461,
+              -6.989
+            ],
+            [
+              110.459,
+              -7.0
+            ],
+            [
+              110.454,
+              -7.01
+            ],
+            [
+              110.447,
+              -7.018
+            ],
+            [
+              110.437,
+              -7.023
+            ],
+            [
+              110.426,
+              -7.025
+            ],
+            [
+              110.416,
+              -7.024
+            ],
+            [
+              110.407,
+              -7.02
+            ],
+            [
+              110.404,
+              -7.018
+            ],
+            [
+              110.411,
+              -7.011
+            ],
+            [
+              110.416,
+              -7.003
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
