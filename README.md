@@ -18,7 +18,6 @@ File styling seluruh tampilan. Berisi:
 - **Animasi** → Loading spinner dan efek pulse
 
 ### `js/app.js`
-Otak aplikasi. Berisi fungsi-fungsi utama:
 
 | Fungsi | Kegunaan |
 |---|---|
@@ -47,7 +46,7 @@ di Kota Semarang dengan properties:
 
 ---
 
-## ✨ Fitur Aplikasi
+##  Fitur Aplikasi
 
 | Fitur | Keterangan |
 |---|---|
@@ -60,7 +59,7 @@ di Kota Semarang dengan properties:
 | 📊 Statistik | Jumlah zona per kategori risiko |
 | 📍 Koordinat Live | Koordinat kursor tampil di status bar bawah |
 
-## 📚 Library yang Digunakan
+##  Library yang Digunakan
 
 | Library | Versi | Fungsi |
 |---|---|---|
