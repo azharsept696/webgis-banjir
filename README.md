@@ -1,27 +1,7 @@
 # Analisis Risiko Banjir
 ### Kota Semarang, Jawa Tengah
 
-## 📁 Struktur Folder Project
-
-```
-flood-risk-webgis/
-│
-├── index.html              ← Halaman utama aplikasi
-├── README.md               ← Dokumentasi project ini
-│
-├── css/
-│   └── style.css           ← Semua styling tampilan
-│
-├── js/
-│   └── app.js              ← Logika JavaScript & Leaflet
-│
-└── data/
-    └── flood_zones.geojson ← Data spasial zona risiko banjir
-```
-
----
-
-## 📄 Penjelasan Fungsi Tiap File
+## Arsitektur Sistem
 
 ### `index.html`
 File utama aplikasi. Berisi:
